@@ -117,6 +117,8 @@ othello/
 
 ## 📸 Screenshots
 
+![Othello Gameplay](screenshots/image.png)
+
 The game features a classic green board with black and white pieces, a clean grid layout, and status text showing the current player's turn and final game results.
 
 ## 🎯 Future Enhancements
