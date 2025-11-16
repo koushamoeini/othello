@@ -133,13 +133,6 @@ Potential improvements for future versions:
 - Online multiplayer support
 - Animation effects for piece flipping
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -147,13 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Kousha Moeini**
+- Email: koushamoeini@gmail.com
 - GitHub: [@koushamoeini](https://github.com/koushamoeini)
 
-## 🙏 Acknowledgments
-
-- Inspired by the classic Othello/Reversi board game
-- Built as part of an Advanced Programming course project
-
 ---
-
-**Enjoy the game! May the best strategist win! 🎮**
